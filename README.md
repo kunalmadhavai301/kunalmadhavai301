@@ -1,23 +1,102 @@
-<h1 align="center">Hi 👋, I'm Kunal Madhavai</h1>
+<div align="center">
 
-<h3 align="center">
-Cyber Security Engineer | AI Developer | Full Stack Developer
+<h1>👋 KUNAL MADHAVAI</h1>
+
+<h3>
+Cyber Security Engineer • AI Developer • Researcher
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cyber+Security+Engineer;AI+Developer;CTF+Player;Full+Stack+Developer;Researcher" />
-</p>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kunalmadhavai301&show_icons=true&theme=tokyonight" />
-</p>
+<hr>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmadhavai301&theme=tokyonight" />
-</p>
+<table>
+<tr>
+
+<td width="50%">
+
+<h2>🛡 About Me</h2>
+
+<ul>
+<li>🎓 B.Tech CSE (Cyber Security)</li>
+<li>🔐 Cyber Security Enthusiast</li>
+<li>🤖 AI Developer</li>
+<li>💻 Full Stack Developer</li>
+<li>🚀 Open Source Learner</li>
+</ul>
+
+</td>
+
+<td width="50%">
+
+<h2>🚀 Current Focus</h2>
+
+<ul>
+<li>AI Driven Phishing Detection</li>
+<li>Quantum Resistant Encryption</li>
+<li>Audio Deepfake Detection</li>
+<li>Cloud Security</li>
+<li>Digital Forensics</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<hr>
 
 <h2>💻 Tech Stack</h2>
 
+<table>
+
+<tr>
+<td>Python</td>
+<td>Java</td>
+<td>C++</td>
+<td>JavaScript</td>
+</tr>
+
+<tr>
+<td>React</td>
+<td>Flask</td>
+<td>Django</td>
+<td>Linux</td>
+</tr>
+
+<tr>
+<td>Docker</td>
+<td>Git</td>
+<td>GitHub</td>
+<td>MySQL</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>🏆 Certifications</h2>
+
+<ul>
+<li>Fortinet Certified Fundamentals</li>
+<li>IIT Bombay Web Development</li>
+<li>IIT Bombay Project Work</li>
+<li>ISRO Certificate of Merit</li>
+<li>DevOps Training</li>
+</ul>
+
+<hr>
+
+<h2>🌐 Connect</h2>
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,flask,django,mongodb,mysql,docker,linux,git,github,kali,vscode" />
+GitHub • LinkedIn • Portfolio • Email
 </p>
+
+<hr>
+
+<div align="center">
+
+<h3>⭐ Thanks for visiting my profile ⭐</h3>
+
+</div>
