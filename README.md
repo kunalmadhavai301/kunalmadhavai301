@@ -1,136 +1,53 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kunalmadhavai301/kunalmadhavai301/main/banner.png" width="100%" alt="Banner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Kunal+Madhavai;🔐+Cyber+Security+Engineer;🤖+AI+Developer;🛡️+Ethical+Hacker;🚀+Researcher" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Cyber%20Security-Expert-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%20Developer-Active-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Researcher-Always%20Learning-orange?style=for-the-badge"/>
 
 <br><br>
 
-<h1>👋 Hi, I'm Kunal Madhavai</h1>
-
-<h3>
-Cyber Security Engineer • AI Developer • Researcher
-</h3>
-
-<p>
-Passionate about Cyber Security, Artificial Intelligence, Digital Forensics, Cloud Security and Open Source.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 🛡 About Me
+<div align="center">
 
-- 🎓 B.Tech CSE (Cyber Security)
-- 🔐 Cyber Security Enthusiast
-- 🤖 AI Developer
-- 💻 Full Stack Developer
-- 🚀 Open Source Learner
-- 📚 Researcher
-- 🌱 Always Learning New Technologies
+### 🚀 Passionate about
 
----
+🛡 Cyber Security • 🤖 Artificial Intelligence • ☁ Cloud Security • 🔍 Digital Forensics • 💻 Open Source
 
-# 🚀 Current Projects
+</div><div align="center">
 
-| Project | Status |
-|---------|--------|
-| AI Driven Phishing Detection | ✅ Completed |
-| Quantum Resistant Encryption | 🚧 In Progress |
-| Audio Deepfake Detection | 🚧 Research |
-| Cloud Security Lab | 🚀 Active |
-| Digital Forensics Toolkit | 🚀 Active |
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Kunal+Madhavai;🔐+Cyber+Security+Engineer;🤖+AI+Developer;🛡️+Ethical+Hacker;🚀+Researcher" />
 
----
+<br>
 
-# 💻 Tech Stack
+<img src="https://img.shields.io/badge/Cyber%20Security-Expert-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
-<table>
+<img src="https://img.shields.io/badge/AI%20Developer-Active-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<tr>
-<td align="center">Python</td>
-<td align="center">Java</td>
-<td align="center">C++</td>
-<td align="center">JavaScript</td>
-</tr>
+<img src="https://img.shields.io/badge/Researcher-Always%20Learning-orange?style=for-the-badge"/>
 
-<tr>
-<td align="center">React</td>
-<td align="center">Flask</td>
-<td align="center">Django</td>
-<td align="center">Linux</td>
-</tr>
+<br><br>
 
-<tr>
-<td align="center">Docker</td>
-<td align="center">Git</td>
-<td align="center">GitHub</td>
-<td align="center">MySQL</td>
-</tr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-<tr>
-<td align="center">HTML</td>
-<td align="center">CSS</td>
-<td align="center">Firebase</td>
-<td align="center">VS Code</td>
-</tr>
-
-</table>
-
----
-
-# 🏆 Certifications
-
-- ✅ Fortinet Certified Fundamentals
-- ✅ IIT Bombay Web Development
-- ✅ IIT Bombay Project Work
-- ✅ ISRO Certificate of Merit
-- ✅ DevOps Training
-- ✅ SoloLearn C++
-- ✅ SoloLearn HTML
-
----
-
-# 🎯 Interests
-
-- Ethical Hacking
-- Penetration Testing
-- Malware Analysis
-- Digital Forensics
-- AI Security
-- Reverse Engineering
-- Cloud Security
-
----
-
-# 📈 GitHub
-
-- 🌟 Open Source Contributor
-- 🚀 Building AI Applications
-- 🔐 Cyber Security Projects
-- 💻 Full Stack Development
-
----
-
-# 📫 Connect
-
-<p>
-
-📧 Email : your-email@gmail.com
-
-💼 LinkedIn : https://linkedin.com/in/yourprofile
-
-🌐 Portfolio : https://yourportfolio.com
-
-🐙 GitHub : https://github.com/kunalmadhavai301
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-<h2>⭐ Thank You For Visiting ⭐</h2>
+### 🚀 Passionate about
 
-<p>Have a great day! 😊</p>
+🛡 Cyber Security • 🤖 Artificial Intelligence • ☁ Cloud Security • 🔍 Digital Forensics • 💻 Open Source
 
 </div>
