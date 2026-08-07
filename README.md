@@ -1,102 +1,136 @@
 <div align="center">
 
-<h1>👋 KUNAL MADHAVAI</h1>
+<img src="https://raw.githubusercontent.com/kunalmadhavai301/kunalmadhavai301/main/banner.png" width="100%" alt="Banner"/>
+
+<br><br>
+
+<h1>👋 Hi, I'm Kunal Madhavai</h1>
 
 <h3>
 Cyber Security Engineer • AI Developer • Researcher
 </h3>
 
-</div>
-
-<hr>
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h2>🛡 About Me</h2>
-
-<ul>
-<li>🎓 B.Tech CSE (Cyber Security)</li>
-<li>🔐 Cyber Security Enthusiast</li>
-<li>🤖 AI Developer</li>
-<li>💻 Full Stack Developer</li>
-<li>🚀 Open Source Learner</li>
-</ul>
-
-</td>
-
-<td width="50%">
-
-<h2>🚀 Current Focus</h2>
-
-<ul>
-<li>AI Driven Phishing Detection</li>
-<li>Quantum Resistant Encryption</li>
-<li>Audio Deepfake Detection</li>
-<li>Cloud Security</li>
-<li>Digital Forensics</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<hr>
-
-<h2>💻 Tech Stack</h2>
-
-<table>
-
-<tr>
-<td>Python</td>
-<td>Java</td>
-<td>C++</td>
-<td>JavaScript</td>
-</tr>
-
-<tr>
-<td>React</td>
-<td>Flask</td>
-<td>Django</td>
-<td>Linux</td>
-</tr>
-
-<tr>
-<td>Docker</td>
-<td>Git</td>
-<td>GitHub</td>
-<td>MySQL</td>
-</tr>
-
-</table>
-
-<hr>
-
-<h2>🏆 Certifications</h2>
-
-<ul>
-<li>Fortinet Certified Fundamentals</li>
-<li>IIT Bombay Web Development</li>
-<li>IIT Bombay Project Work</li>
-<li>ISRO Certificate of Merit</li>
-<li>DevOps Training</li>
-</ul>
-
-<hr>
-
-<h2>🌐 Connect</h2>
-
 <p>
-GitHub • LinkedIn • Portfolio • Email
+Passionate about Cyber Security, Artificial Intelligence, Digital Forensics, Cloud Security and Open Source.
 </p>
 
-<hr>
+</div>
+
+---
+
+# 🛡 About Me
+
+- 🎓 B.Tech CSE (Cyber Security)
+- 🔐 Cyber Security Enthusiast
+- 🤖 AI Developer
+- 💻 Full Stack Developer
+- 🚀 Open Source Learner
+- 📚 Researcher
+- 🌱 Always Learning New Technologies
+
+---
+
+# 🚀 Current Projects
+
+| Project | Status |
+|---------|--------|
+| AI Driven Phishing Detection | ✅ Completed |
+| Quantum Resistant Encryption | 🚧 In Progress |
+| Audio Deepfake Detection | 🚧 Research |
+| Cloud Security Lab | 🚀 Active |
+| Digital Forensics Toolkit | 🚀 Active |
+
+---
+
+# 💻 Tech Stack
+
+<table>
+
+<tr>
+<td align="center">Python</td>
+<td align="center">Java</td>
+<td align="center">C++</td>
+<td align="center">JavaScript</td>
+</tr>
+
+<tr>
+<td align="center">React</td>
+<td align="center">Flask</td>
+<td align="center">Django</td>
+<td align="center">Linux</td>
+</tr>
+
+<tr>
+<td align="center">Docker</td>
+<td align="center">Git</td>
+<td align="center">GitHub</td>
+<td align="center">MySQL</td>
+</tr>
+
+<tr>
+<td align="center">HTML</td>
+<td align="center">CSS</td>
+<td align="center">Firebase</td>
+<td align="center">VS Code</td>
+</tr>
+
+</table>
+
+---
+
+# 🏆 Certifications
+
+- ✅ Fortinet Certified Fundamentals
+- ✅ IIT Bombay Web Development
+- ✅ IIT Bombay Project Work
+- ✅ ISRO Certificate of Merit
+- ✅ DevOps Training
+- ✅ SoloLearn C++
+- ✅ SoloLearn HTML
+
+---
+
+# 🎯 Interests
+
+- Ethical Hacking
+- Penetration Testing
+- Malware Analysis
+- Digital Forensics
+- AI Security
+- Reverse Engineering
+- Cloud Security
+
+---
+
+# 📈 GitHub
+
+- 🌟 Open Source Contributor
+- 🚀 Building AI Applications
+- 🔐 Cyber Security Projects
+- 💻 Full Stack Development
+
+---
+
+# 📫 Connect
+
+<p>
+
+📧 Email : your-email@gmail.com
+
+💼 LinkedIn : https://linkedin.com/in/yourprofile
+
+🌐 Portfolio : https://yourportfolio.com
+
+🐙 GitHub : https://github.com/kunalmadhavai301
+
+</p>
+
+---
 
 <div align="center">
 
-<h3>⭐ Thanks for visiting my profile ⭐</h3>
+<h2>⭐ Thank You For Visiting ⭐</h2>
+
+<p>Have a great day! 😊</p>
 
 </div>
