@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Kunal+Madhavai;🔐+Cyber+Security+Engineer;🤖+AI+Developer;🛡️+Ethical+Hacker;🚀+Researcher" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Cyber%20Security-Expert-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI%20Developer-Active-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Researcher-Always%20Learning-orange?style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/kunalmadhavai301/kunalmadhavai301/main/banner.png" width="100%" alt="Banner"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Kunal+Madhavai;🔐+Cyber+Security+Engineer;🤖+AI+Developer;🛡️+Ethical+Hacker;🚀+Researcher" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kunalmadhavai301&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -20,33 +16,7 @@
 
 <div align="center">
 
-### 🚀 Passionate about
-
-🛡 Cyber Security • 🤖 Artificial Intelligence • ☁ Cloud Security • 🔍 Digital Forensics • 💻 Open Source
-
-</div><div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Kunal+Madhavai;🔐+Cyber+Security+Engineer;🤖+AI+Developer;🛡️+Ethical+Hacker;🚀+Researcher" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Cyber%20Security-Expert-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI%20Developer-Active-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Researcher-Always%20Learning-orange?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=150&section=header&text=Welcome%20To%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Passionate about
+### 🚀 Passionate About
 
 🛡 Cyber Security • 🤖 Artificial Intelligence • ☁ Cloud Security • 🔍 Digital Forensics • 💻 Open Source
 
